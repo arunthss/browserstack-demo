@@ -1,8 +1,6 @@
 __pycache__/
 report.html
 .venv/
-images/.*
-logs/.*
 #.gitignore
 .idea
 assets
